@@ -10,7 +10,7 @@ To be used with Virtualbox
 2. Download the zipped image (4.3Gb)
 3. Unzip the image (32GB)
 4. Set up a new VM (ubuntu/64bits/1GBmin) using the .vdi
-4.1 If not working with 64bit enable virtualisation in BIOS 
+4. If not working with 64bit enable virtualisation in BIOS 
 5. Connect to local access point (or create local hotspot)
 6. Setup the network as bridge mode with "Allow all" in primiscoutus mode
 7. Launch the VM
